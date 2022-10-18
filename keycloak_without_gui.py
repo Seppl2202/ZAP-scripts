@@ -26,7 +26,7 @@ ACCESS_TOKEN = "access_token";
 ACCESS_TOKEN_CREATION_TIMESTAMP="ACCESS_TOKEN_CREATE_TIMESTAMP";
 ACCESS_TOKEN_EXPIRY_IN_SECONDS="ACCESS_TOKEN_EXPIRY_IN_SEC";
 #here we define the login url, username and password
-KEYCLOAK_URL = "https://platform.creditreform.de/auth/realms/inkasso40/protocol/openid-connect/token"
+KEYCLOAK_URL = "https://yourkeycloak.com/auth/realms/appid/protocol/openid-connect/token"
 USERNAME = "user";
 PASSWORD = "pass";
 
